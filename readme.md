@@ -1,7 +1,8 @@
 You can find Powershell scripts within this repository
 
 Used frameworks, libraries and technologies:
-    - Powershell
+
+- Powershell
 
 Repository files:
 
