@@ -7,4 +7,6 @@ Used frameworks, libraries and technologies:
 Repository files:
 
 - geckodriver.ps1 : Kill the geckodrivers. It also waits 5 seconds before kills it.
+
 - freespace.ps1 : Gives back the Size, Free Space and Percentage of the computer's disk
+
