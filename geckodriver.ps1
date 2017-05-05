@@ -1,4 +1,8 @@
-﻿# PowerShell Kill Process
+﻿# Displayed by T#
+# 05.04.2017 - Janos Szenfner
+# Version 1.0
+
+# PowerShell Kill Process
 Clear-Host
 # get Geckodriver process
 $process = Get-Process geckodriver -ErrorAction SilentlyContinue
